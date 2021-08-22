@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "basic nodejs application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheModernProgrammer/Node-js.git"
+  },
+  "author": "koindev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheModernProgrammer/Node-js/issues"
+  },
+  "homepage": "https://github.com/TheModernProgrammer/Node-js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
